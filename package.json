@@ -1,0 +1,8 @@
+{
+  "name": "vue-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Whl321991417/vue-demo.git",
+  "author": "whl321991417 <h321991417@163.com>",
+  "license": "MIT"
+}
